@@ -31,7 +31,7 @@ Pour utiliser cette application, l'utilisateur doit disposer d'une installation 
 Une fois que tout est configuré, l'application peut être lancée en utilisant la commande suivante dans le terminal :
 
 ```bash
-streamlit run <nom_du_fichier.py>
+streamlit run app.py
 ```
 
 ## Conclusion
